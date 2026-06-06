@@ -1,2 +1,2 @@
 # DemoGit
-This is created to learn the git fundamentals
+This is created to learn the git fundamentals.
